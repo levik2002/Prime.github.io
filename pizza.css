@@ -1,0 +1,43 @@
+
+body {
+  color: green ;
+}
+h1, h2 {
+  color:green;
+}
+P{
+  font-family: Arial;
+   background-color: lightgray ; 
+  border-bottom: 2px solid blue ;
+  text-align: center;
+}
+
+a{
+  border: 1px solid white;
+  color:blue;
+  text-decoration: none ;
+}
+a:hover {
+  color: white;
+  background-color:blue;
+}
+
+#pizzabox {
+  border: 1px dotted black ;
+  padding 8px;
+  font-family: Cursive;
+  background-color: #cccccc;  
+}
+
+.myclass1 {
+  color: blue ;
+}
+
+.yellow {
+  background: yellow ;
+}
+
+img {
+  width: 100px;
+  float: right;
+}
